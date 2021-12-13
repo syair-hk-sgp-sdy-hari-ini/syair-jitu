@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-hk-sgp-sdy-hari-ini.github.io/syair-jitu/sitemap.xml
